@@ -193,5 +193,23 @@ User story format:
             the product goal
             - The developers plan work that is necessary to accomplish each user story
         - No more than 8 hours
-
+    2. Daily Standup Meeting (Daily Scrum)
+        - Occurs everyday, usually at the start of the working day
+        - Progress towards the Sprint goal and completion of the Sprint backlog is inspected
+        - 15 minutes are allocated (no more than 15 minutes)
+        - Each team member answers
+            1. What did you do yesterday?
+            2. What will you do today?
+            3. Are there any impediments/blockers?
+    3. Sprint Review Meeting
+        - Happens at the end of the Sprint
+        - Inspect the outcome of the Sprint
+        - Determine future adaptations to be made to the product
+        - Present result of work to stakeholders
+        - This is not the time to make critiques/criticize what was done
+    4. Sprint Retrospective
+        - Occurs after the Sprint review meeting
+        - The purpose is to see how to improve for the next Sprint
+        - Identify the most useful changes to improve effectiveness
+        
 
