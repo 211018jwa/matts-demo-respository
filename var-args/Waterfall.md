@@ -47,4 +47,4 @@ phases
     - The project is small or smort in duration
     - Proper resourdces are available to support development
     - The project requires you to deliver everything at once
-        - 
+        

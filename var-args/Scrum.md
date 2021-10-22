@@ -20,7 +20,7 @@ Additionally, there are three different high level ideas to be aware of.
 These are the Scrum
 - Artifacts
 - Roles
-- Ceremones
+- Ceremonies
 
 # Sprint
 A Sprint is fundamentally the most important part of Scrum. It is where
@@ -211,5 +211,5 @@ User story format:
         - Occurs after the Sprint review meeting
         - The purpose is to see how to improve for the next Sprint
         - Identify the most useful changes to improve effectiveness
-        
+
 
